@@ -150,7 +150,7 @@ function draw() {
   if(initPlay == 2){
 
   speed -= (speed - (k.ArrowUp - k.ArrowDown))*0.01;
-  t += 20-0.001;
+  t += 20;
   // background(0,0,255);
 
   image(img,-(t%width),0,width,height);
