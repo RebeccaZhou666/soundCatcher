@@ -175,7 +175,7 @@ function draw() {
   endShape();
 
   // if(noteNum > 60) initPlay = true;
-  if(noteNum > 400) {
+  if(noteNum >= 200) {
     playing = false;
       this.rSpeed = 5;
     initPlay = 3;
@@ -197,7 +197,7 @@ function draw() {
   
   
   drawFreq();
-  drawCurrentFreq();
+  drawNote();
   drawScore();
 }
 } 

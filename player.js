@@ -119,7 +119,10 @@ function drawFreq(){
   // console.log(noteNum, perm[noteNum])
 }
 
-function drawCurrentFreq(){
+function drawNote(){
+  fill(0);
+  text('Time Left:', 40, 40);
+  text(200-noteNum, 230, 40);
 
 }
 
