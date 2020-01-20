@@ -17,7 +17,7 @@ function instruction(){
 	if(!created){
 		image(insimg,0,0,width,height);
 		gif = createImg("assets/ins.gif");
-		gif.position(width/2-60, 330);
+		gif.position(width/2-60, 230);
         select('#play').html('Start Game');
 		created = true;
 	}
