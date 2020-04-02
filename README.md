@@ -1,7 +1,7 @@
 # SoundCatcher
 
 Play a revised motorcycle game using your voices. Sing melodies to generate waves so as to help our Snoopy to catch birds. Try it out in this [Live Website](https://rebeccazhou666-final-dwd.glitch.me/). Also you can see video demo below.
-[![Watch the video](assets/startScreen.jpg)](https://youtu.be/8oRWh-_MYLE)
+[![Watch the video](assets/startScreen.jpg)](https://youtu.be/79tOUtaQ_Ns)
 
 This project is featured by [ml5.js community](https://ml5js.org/community). Empowered by [CREPE Model](github.com/marl/crepe) and [ml5.js](https://ml5js.org/).  
 
