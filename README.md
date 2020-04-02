@@ -3,7 +3,7 @@
 Play a revised motorcycle game using your voices. Sing melodies to generate waves so as to help our Snoopy to catch birds. Try it out in this [Live Website](https://rebeccazhou666.github.io/soundCatcher/). Also you can see video demo below.
 [![Watch the video](assets/startScreen.jpg)](https://youtu.be/79tOUtaQ_Ns)
 
-This project is featured by [ml5.js community](https://ml5js.org/community). Empowered by [CREPE Model](github.com/marl/crepe) and [ml5.js](https://ml5js.org/).  
+This project is featured in [ml5.js community](https://ml5js.org/community). Empowered by [CREPE Model](github.com/marl/crepe) and [ml5.js](https://ml5js.org/).  
 
 # About
 Motorcycle games are one of the classic web games. By simply using arrow keys and space bar to control the motorcycle to ride over the rough roads. Inspired and developed on that, SoundCatcher goes way beyond by creatively changing the way of playing and natually using the up-to-date machine learning model. Users now control the movements of the character by singing melodies to generate "waves"/roads underneath and help the character to catch more awards. <br />
