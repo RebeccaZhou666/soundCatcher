@@ -23,6 +23,8 @@ People are always enthusiastic about games. So I started looking for classic fun
 <h3>Prototype 1</h3>
 Core Idea: Generating roads by uploading songs so that users can control the motorcycle as the melody goes.<br /><br />
 
+![design1](pictures/design1.png)
+
 <strong>Technical feasibility testing</strong>
 
 CREPE is trained on 16 kHz audio WAV, so the uploaded songs has to be resampled first to 16 kHz and has to be WAV file. I tried the
