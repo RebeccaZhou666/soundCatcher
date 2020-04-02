@@ -81,6 +81,12 @@ function setup(){
 }
 ~~~
 
+# Future Plan
+- Using node.js to store the scores of users to make a ranking list.
+- Generate the position of birds according to the pitches of certain song so that people can catch more bird when they sing a certain melody, like “bad guy”.
+- Try to develop a function that can recognize pitches of uploaded sound files instead of microphone (back to prototype 1).
+
+
 
 # Reference & Credits
 * [CREPE Model](github.com/marl/crepe)
